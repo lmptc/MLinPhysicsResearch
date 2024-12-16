@@ -1,4 +1,6 @@
 data/
+Data/
 my_mnist_logs/
 *.pdf
 *.docx
+*.pptx
